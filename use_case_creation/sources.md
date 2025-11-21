@@ -6,4 +6,4 @@ https://techcommunity.microsoft.com/blog/analyticsonazure/explore-microsoft-fabr
 
 TOGAF Enterprise Architect Series 10 Documentation
 
-https://innovation-regulation.telecom-paris.fr/wp-content/uploads/2017/12/DEDM13_An-Enterprise-Architecture-and-Data-quality-framework.pdf?lang=en
+https://innovation-regulation.telecom-paris.fr/wp-content/uploads/2017/12/DEDM13_An-Enterprise-Architecture-and-Data-quality-framework.pdf?lang=en - Jerome Capirossi, Pascal Rabier 
